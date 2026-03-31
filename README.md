@@ -2,11 +2,17 @@
 Quality Assurance Porrtofolio & Resume
 
 Nama : Gede Bagus Mahendra Adiputra
+
 Panggilan : Mahen
+
 Domisili : Bali
+
 Alumni : Institut Teknologi dan Bisnis ITB Stikom Bali 
+
 Jurusan : Sistem Informasi
+
 IPK Kelulusan : 3.42
+
 Pengalaman Kerja : Kilas PHotography Hostess at KING ATV Bali (Juli-November 2024)
 
 Halo, perkenalkan nama saya Gede Bagus Mahendra Adiputra. Panggilan singkat saya adalah Mahen. Halaman GitHub ini adalah laman display untuk portofolio saya.
